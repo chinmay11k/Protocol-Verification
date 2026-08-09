@@ -1,0 +1,147 @@
+[DRV] : RESET COMPLETED
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=0 dout=0
+[DRV] : din=0 dout=0
+[MON] : din=0 dout=0
+[SCO] : din=0 dout=0
+[SCO_REF] : din=0 dout=0
+[SCO] : DATA CORRECT
+==============================================
+[GEN] : din=1 dout=0
+[DRV] : din=1 dout=0
+[MON] : din=0 dout=1
+[SCO] : din=0 dout=1
+[SCO_REF] : din=1 dout=0
+[SCO] : DATA CORRECT
+==============================================
+DFF Verification Report
+Total Tests     : 20
+Correct Output  : 20
+Incorrect Output: 0
+Pass Percentage : 100.00%
+=====================================
