@@ -9,7 +9,7 @@ This repository is built as a design verification portfolio, covering protocol-a
 | Project | Design Files | Testbench Files | Verification Focus |
 | --- | --- | --- | --- |
 | D Flip-Flop | `D-Flip Flop/RTL_codes/DFF.sv` | `D-Flip Flop/Testbench_codes/` | Reset behavior, sequential sampling, expected vs actual output checking. |
-| FIFO | `FIFO/RTL_codes/FIFO.sv` | - | Read/write control, pointer movement, count tracking, `full` and `empty` flags. |
+| FIFO | `FIFO/RTL_codes/FIFO.sv` | `FIFO/Testbench_codes/testbench_fifo.sv`| Read/write control, pointer movement, count tracking, `full` and `empty` flags. |
 | APB | `APB/RTL_codes/APB_slave.sv` | `APB/Testbench_codes/APB_tb.sv` | Setup/access phase sequencing, read/write transfer validation, ready/error response checks. |
 | AXI | `AXI/RTL_codes/AXI_slave.sv` | `AXI/Testbench_codes/AXI_tb.sv` | Independent read/write channel behavior, response checking, memory transaction validation. |
 | I2C | `I2C/RTL_codes/` | `I2C/Testbench_codes/I2C_tb.sv` | Serial read/write operations, address handling, completion and acknowledge/error behavior. |
