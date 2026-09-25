@@ -1,0 +1,108 @@
+[DRV] RESET DONE
+[GEN] addr=5 write=0 wdata=16 rdata=0 error=0
+[DRV] addr=5 write=0 wdata=16 rdata=0 error=0
+[MON] addr=5 write=0 wdata=16 rdata=5 error=0
+[GEN] addr=11 write=1 wdata=77 rdata=0 error=0
+[SCOREBOARD] read PASS addr=5 exp=5 got=5
+======================================================
+[DRV] addr=11 write=1 wdata=77 rdata=0 error=0
+[MON] addr=11 write=1 wdata=77 rdata=5 error=0
+[GEN] addr=31 write=1 wdata=20 rdata=0 error=0
+[SCOREBOARD] write PASS addr=11 data=77
+======================================================
+[DRV] addr=31 write=1 wdata=20 rdata=0 error=0
+[MON] addr=31 write=1 wdata=20 rdata=5 error=1
+[GEN] addr=11 write=0 wdata=160 rdata=0 error=0
+[SCOREBOARD] invalid access PASS addr=31
+======================================================
+[DRV] addr=11 write=0 wdata=160 rdata=0 error=0
+[MON] addr=11 write=0 wdata=160 rdata=77 error=0
+[GEN] addr=0 write=1 wdata=149 rdata=0 error=0
+[SCOREBOARD] read PASS addr=11 exp=77 got=77
+======================================================
+[DRV] addr=0 write=1 wdata=149 rdata=0 error=0
+[MON] addr=0 write=1 wdata=149 rdata=77 error=0
+[GEN] addr=5 write=0 wdata=70 rdata=0 error=0
+[SCOREBOARD] write PASS addr=0 data=149
+======================================================
+[DRV] addr=5 write=0 wdata=70 rdata=0 error=0
+[MON] addr=5 write=0 wdata=70 rdata=5 error=0
+[GEN] addr=3 write=1 wdata=226 rdata=0 error=0
+[SCOREBOARD] read PASS addr=5 exp=5 got=5
+======================================================
+[DRV] addr=3 write=1 wdata=226 rdata=0 error=0
+[MON] addr=3 write=1 wdata=226 rdata=5 error=0
+[GEN] addr=6 write=0 wdata=171 rdata=0 error=0
+[SCOREBOARD] write PASS addr=3 data=226
+======================================================
+[DRV] addr=6 write=0 wdata=171 rdata=0 error=0
+[MON] addr=6 write=0 wdata=171 rdata=6 error=0
+[GEN] addr=13 write=0 wdata=101 rdata=0 error=0
+[SCOREBOARD] read PASS addr=6 exp=6 got=6
+======================================================
+[DRV] addr=13 write=0 wdata=101 rdata=0 error=0
+[MON] addr=13 write=0 wdata=101 rdata=13 error=0
+[GEN] addr=5 write=0 wdata=185 rdata=0 error=0
+[SCOREBOARD] read PASS addr=13 exp=13 got=13
+======================================================
+[DRV] addr=5 write=0 wdata=185 rdata=0 error=0
+[MON] addr=5 write=0 wdata=185 rdata=5 error=0
+[GEN] addr=15 write=0 wdata=202 rdata=0 error=0
+[SCOREBOARD] read PASS addr=5 exp=5 got=5
+======================================================
+[DRV] addr=15 write=0 wdata=202 rdata=0 error=0
+[MON] addr=15 write=0 wdata=202 rdata=15 error=0
+[GEN] addr=0 write=1 wdata=18 rdata=0 error=0
+[SCOREBOARD] read PASS addr=15 exp=15 got=15
+======================================================
+[DRV] addr=0 write=1 wdata=18 rdata=0 error=0
+[MON] addr=0 write=1 wdata=18 rdata=15 error=0
+[GEN] addr=9 write=0 wdata=89 rdata=0 error=0
+[SCOREBOARD] write PASS addr=0 data=18
+======================================================
+[DRV] addr=9 write=0 wdata=89 rdata=0 error=0
+[MON] addr=9 write=0 wdata=89 rdata=9 error=0
+[GEN] addr=11 write=1 wdata=57 rdata=0 error=0
+[SCOREBOARD] read PASS addr=9 exp=9 got=9
+======================================================
+[DRV] addr=11 write=1 wdata=57 rdata=0 error=0
+[MON] addr=11 write=1 wdata=57 rdata=9 error=0
+[GEN] addr=13 write=0 wdata=251 rdata=0 error=0
+[SCOREBOARD] write PASS addr=11 data=57
+======================================================
+[DRV] addr=13 write=0 wdata=251 rdata=0 error=0
+[MON] addr=13 write=0 wdata=251 rdata=13 error=0
+[GEN] addr=9 write=0 wdata=178 rdata=0 error=0
+[SCOREBOARD] read PASS addr=13 exp=13 got=13
+======================================================
+[DRV] addr=9 write=0 wdata=178 rdata=0 error=0
+[MON] addr=9 write=0 wdata=178 rdata=9 error=0
+[GEN] addr=14 write=0 wdata=102 rdata=0 error=0
+[SCOREBOARD] read PASS addr=9 exp=9 got=9
+======================================================
+[DRV] addr=14 write=0 wdata=102 rdata=0 error=0
+[MON] addr=14 write=0 wdata=102 rdata=14 error=0
+[GEN] addr=1 write=1 wdata=183 rdata=0 error=0
+[SCOREBOARD] read PASS addr=14 exp=14 got=14
+======================================================
+[DRV] addr=1 write=1 wdata=183 rdata=0 error=0
+[MON] addr=1 write=1 wdata=183 rdata=14 error=0
+[GEN] addr=12 write=0 wdata=63 rdata=0 error=0
+[SCOREBOARD] write PASS addr=1 data=183
+======================================================
+[DRV] addr=12 write=0 wdata=63 rdata=0 error=0
+[MON] addr=12 write=0 wdata=63 rdata=12 error=0
+[GEN] addr=15 write=0 wdata=118 rdata=0 error=0
+[SCOREBOARD] read PASS addr=12 exp=12 got=12
+======================================================
+[DRV] addr=15 write=0 wdata=118 rdata=0 error=0
+[MON] addr=15 write=0 wdata=118 rdata=15 error=0
+[SCOREBOARD] read PASS addr=15 exp=15 got=15
+======================================================
+
+========== SCOREBOARD REPORT ==========
+TOTAL TESTS     : 20
+CORRECT OUTPUT  : 20
+INCORRECT OUTPUT: 0
+=======================================
+[PASS] APB verification completed successfully.
