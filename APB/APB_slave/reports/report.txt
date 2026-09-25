@@ -1,0 +1,208 @@
+[DRV] RESET DONE
+[GEN] paddr=14 pwrite=1 pwdata=205
+[DRV] paddr=14 pwrite=1 pwdata=205 prdata=0 pslverr=0
+[MON] paddr=14 pwrite=1 pwdata=205 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=14 data=205
+======================================================
+[GEN] paddr=11 pwrite=1 pwdata=105
+[DRV] paddr=11 pwrite=1 pwdata=105 prdata=0 pslverr=0
+[MON] paddr=11 pwrite=1 pwdata=105 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=11 data=105
+======================================================
+[GEN] paddr=6 pwrite=0 pwdata=12
+[DRV] paddr=6 pwrite=0 pwdata=12 prdata=0 pslverr=0
+[MON] paddr=6 pwrite=0 pwdata=12 prdata=6 pslverr=0
+[SCOREBOARD] read PASS addr=6 exp=6 got=6
+======================================================
+[GEN] paddr=6 pwrite=0 pwdata=107
+[DRV] paddr=6 pwrite=0 pwdata=107 prdata=0 pslverr=0
+[MON] paddr=6 pwrite=0 pwdata=107 prdata=6 pslverr=0
+[SCOREBOARD] read PASS addr=6 exp=6 got=6
+======================================================
+[GEN] paddr=11 pwrite=1 pwdata=98
+[DRV] paddr=11 pwrite=1 pwdata=98 prdata=0 pslverr=0
+[MON] paddr=11 pwrite=1 pwdata=98 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=11 data=98
+======================================================
+[GEN] paddr=3 pwrite=0 pwdata=61
+[DRV] paddr=3 pwrite=0 pwdata=61 prdata=0 pslverr=0
+[MON] paddr=3 pwrite=0 pwdata=61 prdata=3 pslverr=0
+[SCOREBOARD] read PASS addr=3 exp=3 got=3
+======================================================
+[GEN] paddr=13 pwrite=1 pwdata=97
+[DRV] paddr=13 pwrite=1 pwdata=97 prdata=0 pslverr=0
+[MON] paddr=13 pwrite=1 pwdata=97 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=13 data=97
+======================================================
+[GEN] paddr=2 pwrite=1 pwdata=140
+[DRV] paddr=2 pwrite=1 pwdata=140 prdata=0 pslverr=0
+[MON] paddr=2 pwrite=1 pwdata=140 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=2 data=140
+======================================================
+[GEN] paddr=12 pwrite=1 pwdata=76
+[DRV] paddr=12 pwrite=1 pwdata=76 prdata=0 pslverr=0
+[MON] paddr=12 pwrite=1 pwdata=76 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=12 data=76
+======================================================
+[GEN] paddr=5 pwrite=0 pwdata=135
+[DRV] paddr=5 pwrite=0 pwdata=135 prdata=0 pslverr=0
+[MON] paddr=5 pwrite=0 pwdata=135 prdata=5 pslverr=0
+[SCOREBOARD] read PASS addr=5 exp=5 got=5
+======================================================
+[GEN] paddr=12 pwrite=1 pwdata=129
+[DRV] paddr=12 pwrite=1 pwdata=129 prdata=0 pslverr=0
+[MON] paddr=12 pwrite=1 pwdata=129 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=12 data=129
+======================================================
+[GEN] paddr=14 pwrite=1 pwdata=58
+[DRV] paddr=14 pwrite=1 pwdata=58 prdata=0 pslverr=0
+[MON] paddr=14 pwrite=1 pwdata=58 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=14 data=58
+======================================================
+[GEN] paddr=11 pwrite=0 pwdata=169
+[DRV] paddr=11 pwrite=0 pwdata=169 prdata=0 pslverr=0
+[MON] paddr=11 pwrite=0 pwdata=169 prdata=98 pslverr=0
+[SCOREBOARD] read PASS addr=11 exp=98 got=98
+======================================================
+[GEN] paddr=2 pwrite=0 pwdata=163
+[DRV] paddr=2 pwrite=0 pwdata=163 prdata=0 pslverr=0
+[MON] paddr=2 pwrite=0 pwdata=163 prdata=140 pslverr=0
+[SCOREBOARD] read PASS addr=2 exp=140 got=140
+======================================================
+[GEN] paddr=11 pwrite=0 pwdata=124
+[DRV] paddr=11 pwrite=0 pwdata=124 prdata=0 pslverr=0
+[MON] paddr=11 pwrite=0 pwdata=124 prdata=98 pslverr=0
+[SCOREBOARD] read PASS addr=11 exp=98 got=98
+======================================================
+[GEN] paddr=2 pwrite=1 pwdata=38
+[DRV] paddr=2 pwrite=1 pwdata=38 prdata=0 pslverr=0
+[MON] paddr=2 pwrite=1 pwdata=38 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=2 data=38
+======================================================
+[GEN] paddr=6 pwrite=0 pwdata=32
+[DRV] paddr=6 pwrite=0 pwdata=32 prdata=0 pslverr=0
+[MON] paddr=6 pwrite=0 pwdata=32 prdata=6 pslverr=0
+[SCOREBOARD] read PASS addr=6 exp=6 got=6
+======================================================
+[GEN] paddr=11 pwrite=1 pwdata=150
+[DRV] paddr=11 pwrite=1 pwdata=150 prdata=0 pslverr=0
+[MON] paddr=11 pwrite=1 pwdata=150 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=11 data=150
+======================================================
+[GEN] paddr=0 pwrite=0 pwdata=11
+[DRV] paddr=0 pwrite=0 pwdata=11 prdata=0 pslverr=0
+[MON] paddr=0 pwrite=0 pwdata=11 prdata=0 pslverr=0
+[SCOREBOARD] read PASS addr=0 exp=0 got=0
+======================================================
+[GEN] paddr=15 pwrite=1 pwdata=253
+[DRV] paddr=15 pwrite=1 pwdata=253 prdata=0 pslverr=0
+[MON] paddr=15 pwrite=1 pwdata=253 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=15 data=253
+======================================================
+[GEN] paddr=31 pwrite=0 pwdata=59
+[DRV] paddr=31 pwrite=0 pwdata=59 prdata=0 pslverr=0
+[MON] paddr=31 pwrite=0 pwdata=59 prdata=0 pslverr=1
+[SCOREBOARD] invalid access PASS addr=31
+======================================================
+[GEN] paddr=9 pwrite=1 pwdata=85
+[DRV] paddr=9 pwrite=1 pwdata=85 prdata=0 pslverr=0
+[MON] paddr=9 pwrite=1 pwdata=85 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=9 data=85
+======================================================
+[GEN] paddr=4 pwrite=1 pwdata=111
+[DRV] paddr=4 pwrite=1 pwdata=111 prdata=0 pslverr=0
+[MON] paddr=4 pwrite=1 pwdata=111 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=4 data=111
+======================================================
+[GEN] paddr=0 pwrite=1 pwdata=129
+[DRV] paddr=0 pwrite=1 pwdata=129 prdata=0 pslverr=0
+[MON] paddr=0 pwrite=1 pwdata=129 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=0 data=129
+======================================================
+[GEN] paddr=14 pwrite=0 pwdata=124
+[DRV] paddr=14 pwrite=0 pwdata=124 prdata=0 pslverr=0
+[MON] paddr=14 pwrite=0 pwdata=124 prdata=58 pslverr=0
+[SCOREBOARD] read PASS addr=14 exp=58 got=58
+======================================================
+[GEN] paddr=0 pwrite=1 pwdata=87
+[DRV] paddr=0 pwrite=1 pwdata=87 prdata=0 pslverr=0
+[MON] paddr=0 pwrite=1 pwdata=87 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=0 data=87
+======================================================
+[GEN] paddr=5 pwrite=0 pwdata=90
+[DRV] paddr=5 pwrite=0 pwdata=90 prdata=0 pslverr=0
+[MON] paddr=5 pwrite=0 pwdata=90 prdata=5 pslverr=0
+[SCOREBOARD] read PASS addr=5 exp=5 got=5
+======================================================
+[GEN] paddr=14 pwrite=1 pwdata=49
+[DRV] paddr=14 pwrite=1 pwdata=49 prdata=0 pslverr=0
+[MON] paddr=14 pwrite=1 pwdata=49 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=14 data=49
+======================================================
+[GEN] paddr=15 pwrite=1 pwdata=113
+[DRV] paddr=15 pwrite=1 pwdata=113 prdata=0 pslverr=0
+[MON] paddr=15 pwrite=1 pwdata=113 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=15 data=113
+======================================================
+[GEN] paddr=10 pwrite=1 pwdata=53
+[DRV] paddr=10 pwrite=1 pwdata=53 prdata=0 pslverr=0
+[MON] paddr=10 pwrite=1 pwdata=53 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=10 data=53
+======================================================
+[GEN] paddr=1 pwrite=1 pwdata=61
+[DRV] paddr=1 pwrite=1 pwdata=61 prdata=0 pslverr=0
+[MON] paddr=1 pwrite=1 pwdata=61 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=1 data=61
+======================================================
+[GEN] paddr=13 pwrite=0 pwdata=92
+[DRV] paddr=13 pwrite=0 pwdata=92 prdata=0 pslverr=0
+[MON] paddr=13 pwrite=0 pwdata=92 prdata=97 pslverr=0
+[SCOREBOARD] read PASS addr=13 exp=97 got=97
+======================================================
+run 1000 ns
+[GEN] paddr=0 pwrite=1 pwdata=64
+[DRV] paddr=0 pwrite=1 pwdata=64 prdata=0 pslverr=0
+[MON] paddr=0 pwrite=1 pwdata=64 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=0 data=64
+======================================================
+[GEN] paddr=7 pwrite=0 pwdata=25
+[DRV] paddr=7 pwrite=0 pwdata=25 prdata=0 pslverr=0
+[MON] paddr=7 pwrite=0 pwdata=25 prdata=7 pslverr=0
+[SCOREBOARD] read PASS addr=7 exp=7 got=7
+======================================================
+[GEN] paddr=10 pwrite=1 pwdata=121
+[DRV] paddr=10 pwrite=1 pwdata=121 prdata=0 pslverr=0
+[MON] paddr=10 pwrite=1 pwdata=121 prdata=0 pslverr=0
+[SCOREBOARD] write PASS addr=10 data=121
+======================================================
+[GEN] paddr=5 pwrite=0 pwdata=67
+[DRV] paddr=5 pwrite=0 pwdata=67 prdata=0 pslverr=0
+[MON] paddr=5 pwrite=0 pwdata=67 prdata=5 pslverr=0
+[SCOREBOARD] read PASS addr=5 exp=5 got=5
+======================================================
+[GEN] paddr=31 pwrite=1 pwdata=169
+[DRV] paddr=31 pwrite=1 pwdata=169 prdata=0 pslverr=0
+[MON] paddr=31 pwrite=1 pwdata=169 prdata=0 pslverr=1
+[SCOREBOARD] invalid access PASS addr=31
+======================================================
+[GEN] paddr=14 pwrite=0 pwdata=66
+[DRV] paddr=14 pwrite=0 pwdata=66 prdata=0 pslverr=0
+[MON] paddr=14 pwrite=0 pwdata=66 prdata=49 pslverr=0
+[SCOREBOARD] read PASS addr=14 exp=49 got=49
+======================================================
+[GEN] paddr=31 pwrite=0 pwdata=85
+[DRV] paddr=31 pwrite=0 pwdata=85 prdata=0 pslverr=0
+[MON] paddr=31 pwrite=0 pwdata=85 prdata=0 pslverr=1
+[SCOREBOARD] invalid access PASS addr=31
+======================================================
+[GEN] paddr=31 pwrite=0 pwdata=39
+[DRV] paddr=31 pwrite=0 pwdata=39 prdata=0 pslverr=0
+[MON] paddr=31 pwrite=0 pwdata=39 prdata=0 pslverr=1
+[SCOREBOARD] invalid access PASS addr=31
+======================================================
+
+========== SCOREBOARD REPORT ==========
+TOTAL TESTS     : 40
+CORRECT OUTPUT  : 40
+INCORRECT OUTPUT: 0
+=======================================
